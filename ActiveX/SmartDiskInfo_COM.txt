@@ -1,0 +1,2 @@
+CLSID:
+{4cc61604-07eb-4e25-b336-fc1b93e3fb1a}
