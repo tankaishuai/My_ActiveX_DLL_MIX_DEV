@@ -1,0 +1,4 @@
+@echo off
+regsvr32 /s   HexEdit.ocx
+RunOCX32.exe   HEXEDIT.HexEditCtrl.1
+::::HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{2E93307E-777D-49E4-886A-D5B04470796A}
